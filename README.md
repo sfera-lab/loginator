@@ -1,11 +1,8 @@
 # Loginator
 
-**TODO: Add description**
+Loginator is a library for managing user authentication and authorization in Elixir.
 
 ## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `loginator` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
@@ -15,7 +12,10 @@ def deps do
 end
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/loginator>.
+## Usage
 
+[Documentation available on HexDocs](https://hexdocs.pm/loginator)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
